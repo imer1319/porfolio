@@ -8,7 +8,7 @@
         <!-- eductation start -->
         <div class="col-span-2 md:col-span-1">
             <div class="flex items-center space-x-2 mb-4">
-                <i class="fa-solid text-6xl text-[#F95054] fa-graduation-cap"></i>
+                <i class="fa-solid text-6xl text-[#6929E7] fa-graduation-cap"></i>
                 <h4 class="text-5xl dark:text-white font-medium"> Educación </h4>
             </div>
             <div
@@ -27,7 +27,7 @@
 
         <div>
             <div class="flex items-center space-x-2 mb-4">
-                <i class="fa-solid text-6xl text-[#F95054] fa-briefcase"></i>
+                <i class="fa-solid text-6xl text-[#6929E7] fa-briefcase"></i>
                 <h4 class="text-5xl dark:text-white font-medium"> Experiencia </h4>
             </div>
             <div
