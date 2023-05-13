@@ -5,7 +5,7 @@
             <ul class="flex items-center justify-center">
                 <li v-for="route in routes">
                     <router-link :to="route.url" exact onclick="scrollToContent()"
-                        :class="[this.$route.path === route.url ? 'menu-active' : 'menu-item']">
+                        :class="[$route.path === route.url ? 'menu-active' : 'menu-item']">
                         <span class="text-xl mb-1">
                             <i :class="route.icon"></i>
                         </span>
