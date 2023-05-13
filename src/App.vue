@@ -1,6 +1,6 @@
 <script setup>
 import InfoUser from './components/InfoUser.vue';
-import Header from './components/Header.vue';
+import Menu from './components/Menu.vue';
 import Navbar from './components/Navbar.vue';
 </script>
 
@@ -11,7 +11,7 @@ import Navbar from './components/Navbar.vue';
     <div class="container grid grid-cols-12 md:gap-10 justify-between lg:mt-[120px]">
       <InfoUser />
       <div class="col-span-12 lg:col-span-8">
-        <Header />
+        <Menu />
         <div class="rounded-2xl bg-white dark:bg-[#111111] p-6 lg:p-12 lg:pb-6" id="content">
 
           <router-view v-slot="{ Component, route }">
