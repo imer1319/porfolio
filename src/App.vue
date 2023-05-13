@@ -12,7 +12,6 @@ import Navbar from './components/Navbar.vue';
       <InfoUser />
       <div class="col-span-12 lg:col-span-8">
         <Menu></Menu>
-        menu
         <div class="rounded-2xl bg-white dark:bg-[#111111] p-6 lg:p-12 lg:pb-6" id="content">
 
           <router-view v-slot="{ Component, route }">
