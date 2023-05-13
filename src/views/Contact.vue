@@ -49,7 +49,7 @@
                 value="Enviar" />
             <input type="hidden" name="_captcha" value="false">
             <input type="hidden" name="_template" value="table">
-            <input type="hidden" name="_next" value="https://imer-mamani.netlify.app/gracias.html">
+            <input type="hidden" name="_next" value="https://imer-mamani.netlify.app/gracias">
         </form>
     </div>
     <span class="p-4 md:p-8 dark:text-white">Tambien puedes enviarme un mensaje directo</span>
