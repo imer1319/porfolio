@@ -448,7 +448,7 @@
 })(jQuery, window);
 
 function scrollToContent() {
-  if (window.innerHeight < 576) {
+  if (window.innerWidth < 769) {
     document.getElementById('content').scrollIntoView({ behavior: 'smooth' });
   }
 }
