@@ -13,7 +13,7 @@
                     <div class="overflow-hidden rounded-lg">
                         <a href="#portfiloOne" rel="modal:open">
                             <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto"
-                                src="projects/carrito.png" alt="portfolio image" />
+                                src="/projects/carrito.png" alt="portfolio image" />
                         </a>
                     </div>
                     <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Laravel -
@@ -63,7 +63,7 @@
                     <p class="dark:text-white">Ventas por año.</p>
                     <p class="dark:text-white">Ventas por mes.</p>
                     <div class="pr-3">
-                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="projects/carrito.png"
+                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="/projects/carrito.png"
                             alt="portfolio image" />
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                     <div class="overflow-hidden rounded-lg">
                         <a href="#portfiloTwo" rel="modal:open">
                             <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto"
-                                src="projects/social3.png" alt="portfolio image" />
+                                src="/projects/social3.png" alt="portfolio image" />
                         </a>
                     </div>
                     <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Laravel - Vue -
@@ -123,7 +123,7 @@
                     <p class="dark:text-white">Test unitarios con PHPUNIT (backend).</p>
                     <p class="dark:text-white">Test unitarios con LARAVEL DUSK (frontend).</p>
                     <div class="pr-3">
-                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="projects/social1.png"
+                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="/projects/social1.png"
                             alt="portfolio image" />
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                     <div class="overflow-hidden rounded-lg">
                         <a href="#portfiloThree" rel="modal:open">
                             <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto"
-                                src="projects/lectura1.png" alt="portfolio image" />
+                                src="/projects/lectura1.png" alt="portfolio image" />
                         </a>
                     </div>
                     <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Laravel - Vue</span>
@@ -185,7 +185,7 @@
                     <p class="dark:text-white">Realización de examenes para desbloquear el curso.</p>
                     <p class="dark:text-white">Resultados de examenes.</p>
                     <div class="pr-3">
-                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="projects/lectura2.png"
+                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="/projects/lectura2.png"
                             alt="portfolio image" />
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                     <div class="overflow-hidden rounded-lg">
                         <a href="#portfiloFour" rel="modal:open">
                             <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto"
-                                src="projects/blog1.png" alt="portfolio image" />
+                                src="/projects/blog1.png" alt="portfolio image" />
                         </a>
                     </div>
                     <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Laravel</span>
@@ -243,7 +243,7 @@
                     <p class="dark:text-white">Modulo de categorias.</p>
                     <p class="dark:text-white">Modulo de etiquetas.</p>
                     <div class="pr-3">
-                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="projects/blog1.png"
+                        <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="/projects/blog1.png"
                             alt="portfolio image" />
                     </div>
                 </div>
