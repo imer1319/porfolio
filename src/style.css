@@ -843,7 +843,7 @@ video {
 
 .dark-light-btn:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 64 96 / var(--tw-bg-opacity));
+  background-color: rgb(105 41 231 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -857,7 +857,7 @@ video {
 
 .dark .dark-light-btn:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 64 96 / var(--tw-bg-opacity));
+  background-color: rgb(105 41 231 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
