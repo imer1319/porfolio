@@ -2172,12 +2172,8 @@ video {
 }
 
 .bg-homeBg {
-  background: rgb(255, 244, 244);
-  background: linear-gradient(
-    90deg,
-    rgba(255, 244, 244, 1) 0%,
-    rgb(211, 197, 188) 100%
-  );
+  background: rgb(165,179,209);
+background: linear-gradient(160deg, rgba(165,179,209,1) 0%, rgba(126,126,226,1) 43%, rgba(192,212,215,1) 100%);
 }
 
 .bg-gradient-to-r {
