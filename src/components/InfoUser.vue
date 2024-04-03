@@ -43,8 +43,8 @@
               <i class="fa-solid fa-mobile-screen-button"></i>
             </span>
             <div class="text-left ml-2.5">
-              <p class="text-xs text-[#44566C]">Telefono</p>
-              <p class="">+591 70239101</p>
+              <p class="text-xs text-[#44566C]">Celular</p>
+              <p class="">+54 93873587970</p>
             </div>
           </div>
 
