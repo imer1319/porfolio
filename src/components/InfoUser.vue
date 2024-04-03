@@ -14,7 +14,7 @@
       <div class="pt-[100px] pb-8">
         <h2 class="mt-6 mb-1 text-[26px] font-semibold">Imer Mamani</h2>
         <h3 class="mb-4 text-[#7B7B7B] inline-block px-5 py-1.5 rounded-lg">
-          Desarrollador web
+          Ingeniero informático <br>Desarrollador web
         </h3>
         <div class="flex justify-center space-x-3">
           <!-- linkedin icon and link -->
@@ -64,7 +64,7 @@
             </span>
             <div class="text-left ml-2.5">
               <p class="text-xs text-[#44566C]">Ubicación</p>
-              <p class="">Bolivia - Tarija</p>
+              <p class="">Argentina - Salta capital</p>
             </div>
           </div>
 

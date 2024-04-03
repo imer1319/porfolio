@@ -53,5 +53,7 @@ const icons = [
   { name: "Bootstrap", img: "icons/Bootstrap.svg" },
   { name: "MySQL", img: "icons/MySQL-Light.svg" },
   { name: "PostgreSQL", img: "icons/PostgreSQL-Light.svg" },
+  { name: "Git", img: "icons/Git.svg" },
+  { name: "Github", img: "icons/Github-Light.svg" },
 ];
 </script>
